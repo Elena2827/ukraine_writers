@@ -10,3 +10,6 @@ console.log (newS)
 
 var newH = +'40' + +'2' + "hillel";
 console.log (newH)
+
+var newC = '10' - 5 === 6;
+console.log (newC)
