@@ -13,3 +13,6 @@ console.log (newH)
 
 var newC = '10' - 5 === 6;
 console.log (newC)
+
+var newT = true + false;
+console.log (true + false)
