@@ -30,4 +30,8 @@ var newK = 12 / '6';
 console.log (newK)
 
 
+var newA = '10' + (5 === 6);
+console.log (newA)
+
+
 
