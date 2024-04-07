@@ -37,5 +37,10 @@ console.log (newA)
 var newV = null == '';
 console.log (newV)
 
+var newM = 3 ** (9 / 3);
+console.log (newM)
+
+
+
 
 
