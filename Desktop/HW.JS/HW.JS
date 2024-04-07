@@ -44,6 +44,9 @@ console.log (newM)
 var newH = !!'false' == !!'true';
 console.log (newH)
 
+var newG =  0 || '0' && 1;
+console.log(newG)
+
 
 
 
