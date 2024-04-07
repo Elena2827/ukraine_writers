@@ -34,4 +34,8 @@ var newA = '10' + (5 === 6);
 console.log (newA)
 
 
+var newV = null == '';
+console.log (newV)
+
+
 
