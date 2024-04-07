@@ -51,6 +51,9 @@ console.log(newG)
 var newR = (+null == false) < 1;
 console.log (newR)
 
+var newP = false && true || true;
+console.log (newP)
+
 
 
 
