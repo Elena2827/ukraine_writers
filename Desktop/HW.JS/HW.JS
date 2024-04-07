@@ -16,3 +16,6 @@ console.log (newC)
 
 var newT = true + false;
 console.log (true + false)
+
+var newT = '4px' - 3;
+console.log (newT)
