@@ -23,3 +23,7 @@ console.log (newT)
 var newY = '4' - 3; 
 console.log (newY)
 
+var newO = '6' + 3 ** 0;
+console.log (newO)
+
+
