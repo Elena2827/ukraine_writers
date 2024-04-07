@@ -41,8 +41,9 @@ var newM = 3 ** (9 / 3);
 console.log (newM)
 
 
-var newL = !!'false' == !!'true';
-console.log (newL)
+var newH = !!'false' == !!'true';
+console.log (newH)
+
 
 
 
