@@ -26,4 +26,8 @@ console.log (newY)
 var newO = '6' + 3 ** 0;
 console.log (newO)
 
+var newK = 12 / '6';
+console.log (newK)
+
+
 
