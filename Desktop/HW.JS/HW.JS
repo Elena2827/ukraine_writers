@@ -55,6 +55,9 @@ var newP = false && true || true;
 console.log (newP)
 
 
+var newJ = false && (false || true);
+console.log(newJ)
+
 
 
 
