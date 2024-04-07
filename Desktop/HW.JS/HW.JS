@@ -58,6 +58,9 @@ console.log (newP)
 var newJ = false && (false || true);
 console.log(newJ)
 
+var newE = (+null == false) < 1 ** 5;
+console.log(newE)
+
 
 
 
