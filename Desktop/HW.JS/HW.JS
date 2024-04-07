@@ -48,6 +48,9 @@ var newG =  0 || '0' && 1;
 console.log(newG)
 
 
+var newR = (+null == false) < 1;
+console.log (newR)
+
 
 
 
