@@ -19,3 +19,7 @@ console.log (true + false)
 
 var newT = '4px' - 3;
 console.log (newT)
+
+var newY = '4' - 3; 
+console.log (newY)
+
