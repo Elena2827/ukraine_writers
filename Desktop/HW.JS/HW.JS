@@ -26,6 +26,16 @@ function drawTriangle(height, symbol) {
 drawTriangle(5, "@");
 
 
+function pow(x, y) {
+    let result = 1;
+    for (let i = 0; i < y; i++) {
+        result *= x;
+    }
+    return result;
+}
+console.log(pow(5,3));
+
+
 
 function drawTriangle(height, symbol) {
     for (let i = 1; i <= height; i++) {
