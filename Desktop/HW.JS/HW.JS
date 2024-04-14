@@ -66,3 +66,10 @@ for (let i = 1; i <= 100; i++) {
 }
 
 console.log("Сума чисел від 1 до 100, які не є кратні 3, дорівнює:", sum);
+
+
+
+x=5;
+y=3;
+let result = Math.pow(x, y);
+console.log(result);
