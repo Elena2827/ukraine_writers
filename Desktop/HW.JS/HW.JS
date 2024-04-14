@@ -73,3 +73,18 @@ x=5;
 y=3;
 let result = Math.pow(x, y);
 console.log(result);
+
+
+
+let i = 1;
+
+while (i <= 5) {
+    let j = 1;
+    let row = '';
+    while (j <= i) {
+        row += '$';
+        j++;
+    }
+    console.log(row);
+    i++;
+}
